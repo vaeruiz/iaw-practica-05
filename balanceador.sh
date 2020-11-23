@@ -23,7 +23,7 @@ a2enmod proxy_html
 a2enmod lbmethod_byrequests
 
 # Copiar 000-default
-cp /home/ubuntu/iaw-practica-03/000-default.conf /etc/apache2/sites-available/
+cp /home/ubuntu/iaw-practica-05/000-default.conf /etc/apache2/sites-available/
 
 # Reemplazar variables
 sed -i "s/IP-HTTP-SERVER-1/$IP_PRIVADA_FRONT1/" /etc/apache2/sites-available/000-default.conf
