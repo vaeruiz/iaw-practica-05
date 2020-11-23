@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables
-IP_PRIVADA_FRONT1=172.31.22.108
-IP_PRIVADA_FRONT2=172.31.32.188
+IP_PRIVADA_FRONT1=
+IP_PRIVADA_FRONT2=
 
 # Activar depuracion
 set -x
