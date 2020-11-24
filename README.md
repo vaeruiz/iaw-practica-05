@@ -1,4 +1,4 @@
-# Práctica IAW 4_balanceador
+# Práctica IAW 5_balanceador
 
 ## Creando la máquina balanceadora
 
